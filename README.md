@@ -27,7 +27,7 @@ This program allows you to:
 📥 Clone or download the project files.
 🧑‍💻 Open the project in your preferred Java IDE.
 📂 Ensure all .java files are in the same package or directory.
-🚀 Run the Calculator class.
+🚀 Run the StudentGradeAnalyzer class.
 
 -----------
 SAMPLE USAGE
